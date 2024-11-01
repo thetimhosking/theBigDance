@@ -1,4 +1,6 @@
-#Overview
+# Register as a Player
+
+Overview
 A person registers to create a profile for involvement in sports, links to clubs and approvals for being approached by other persons and organisations.
 
 #User Role
