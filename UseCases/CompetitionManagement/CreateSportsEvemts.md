@@ -4,8 +4,9 @@
 
 ## User role
 
-**Sports administrator**
-Includes an organisation or individual person
+- Sports administrator
+
+(Includes an organisation or individual person.)
 
 ## Data
 
